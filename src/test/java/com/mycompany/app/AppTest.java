@@ -26,7 +26,7 @@ public class AppTest
             new App();
         } catch (Exception e) {
             fail("Construction failed.");
-            // hai
+            // hai bro
         }
     }
 
